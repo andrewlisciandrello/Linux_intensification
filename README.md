@@ -1,7 +1,9 @@
 # In_tents
 
-Use the -6 and -7 versions of this script for RHEL/Cent 6/7
+https://one.rackspace.com/display/support/Professional+Services+Lift+and+Shift+Intensification+Process
 
-the non-versioned script is untested but should be OK.
-
-Follow on-screen prompts, this can be made much better.
+https://one.rackspace.com/display/Linux/Changing+the+Hostname+on+Linux
+https://one.rackspace.com/display/SegSup/Sophos+Linux+Installation
+https://one.rackspace.com/display/Linux/Add+Rackspace+Ubuntu+Repo
+https://one.rackspace.com/display/Linux/AD+on+Linux+-+sssd-ad
+https://one.rackspace.com/display/SegSup/Linux+Installation+-+Nimbus
